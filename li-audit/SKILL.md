@@ -84,5 +84,5 @@ STOP: listicles about tools.
 DO MORE: the ones with a cost you paid, and a number.
 ```
 
-Then hand the conclusions to `/li-plan` so next week's plan is built on the
+Then hand the conclusions to `li-plan skill` so next week's plan is built on the
 user's own evidence rather than on defaults.

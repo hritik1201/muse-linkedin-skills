@@ -53,7 +53,7 @@ ship and why, in one sentence.
 
 **2. Draft the full post** on the strongest hook.
 
-**3. Humanize it.** Run the draft through `/li-human` before showing it. Every
+**3. Humanize it.** Run the draft through `li-human skill` before showing it. Every
 post from this skill ships humanized. That is not an optional extra step, it
 is the reason the draft is worth reading.
 
@@ -72,7 +72,7 @@ Reply "yes" to log it, or tell me what to change.
 
 **5. Never publish.** This skill produces text. The user posts it. On "yes",
 append the post to `~/workspace/user/linkedin/log.md` with the date, the hook used
-and the first line, so `/li-audit` has a history to work from later.
+and the first line, so `li-audit skill` has a history to work from later.
 
 ## Rules that make the difference
 
@@ -92,7 +92,7 @@ and the first line, so `/li-audit` has a history to work from later.
 ## Example
 
 ```
-/li-post we built an internal tool that cut proposal time from 5 hours to 20 min
+li-post skill we built an internal tool that cut proposal time from 5 hours to 20 min
 ```
 
 ```

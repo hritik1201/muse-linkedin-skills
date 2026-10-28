@@ -55,7 +55,7 @@ Pick by what the post actually is. Never default to type 1.
 ## Output
 
 Give **two options of different types**, labelled, plus a one-line reason for
-the one you would post. Run both through `/li-human` first - a comment with an
+the one you would post. Run both through `li-human skill` first - a comment with an
 em dash in it is more obviously machine-written than a post, because comments
 are short and people read them closely.
 
